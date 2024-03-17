@@ -15,3 +15,11 @@ html {
   width: 100%;
 }
 
+@font-face {
+  font-family: t1;
+  src: url(./fonts/Skyscapers.ttf);
+}
+
+.t1{
+  font-family: t1;
+}
